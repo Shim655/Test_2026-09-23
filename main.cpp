@@ -14,6 +14,7 @@
 int main()
 {
 	std::cout << "Develope Branch" << std::endl;
+	std::cout << "New Code" << std::endl;
 
 	return 0;
 }
