@@ -19,5 +19,7 @@ int main()
 	std::cout << "bbbbbbb" << std::endl;
 
 
+	std::cout << "•ÏX" << std::endl;
+
 	return 0;
 }
