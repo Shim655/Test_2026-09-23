@@ -13,7 +13,16 @@
 
 int main()
 {
-	std::cout << "Develope Branch" << std::endl;
+	std::cout << "Develop Branch" << std::endl;
+	std::cout << "New Code" << std::endl;//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	std::cout << "aaaaaaa" << std::endl;
+	std::cout << "bbbbbbb" << std::endl;
+
+
+	std::cout << "•ÏX" << std::endl;
+	std::cout << "•ÏX2" << std::endl;
+	//ggg
+	std::cout << "•ÏX‚S" << std::endl;
 
 	return 0;
 }
