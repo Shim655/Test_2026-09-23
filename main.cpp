@@ -21,6 +21,7 @@ int main()
 
 	std::cout << "•ÏX" << std::endl;
 	std::cout << "•ÏX2" << std::endl;
+	//ggg
 
 
 	return 0;
