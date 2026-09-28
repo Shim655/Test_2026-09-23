@@ -22,7 +22,7 @@ int main()
 	std::cout << "•ÏX" << std::endl;
 	std::cout << "•ÏX2" << std::endl;
 	//ggg
-	
+	std::cout << "•ÏX‚S" << std::endl;
 
 	return 0;
 }
