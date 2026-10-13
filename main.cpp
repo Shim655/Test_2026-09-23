@@ -19,7 +19,7 @@ int main()
 	std::cout << "bbbbbbb" << std::endl;
 
 
-	std::cout << "変更" << std::endl;
+	std::cout << "変更0" << std::endl;
 	std::cout << "変更2" << std::endl;
 	//ggg
 	std::cout << "変更４" << std::endl;
