@@ -1,4 +1,4 @@
-/*
+﻿/*
 * +-------------------------------------+
 * File   : main[main.cpp]
 * Author : Shim KyuHyun
@@ -19,11 +19,11 @@ int main()
 	std::cout << "bbbbbbb" << std::endl;
 
 
-	std::cout << "�ύX0" << std::endl;
-	std::cout << "�ύX2" << std::endl;
+	std::cout << "変更0" << std::endl;
+	std::cout << "変更2" << std::endl;
 	//ggg
-	std::cout << "�ύX�S" << std::endl;
-	std::cout << "�ύX6" << std::endl;
+	std::cout << "変更４" << std::endl;
+	std::cout << "変更6" << std::endl;
 
 	return 0;
 }
