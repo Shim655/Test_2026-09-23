@@ -10,22 +10,11 @@
 * +-------------------------------------+
 */
 #include <iostream>
+#include "ShimKyuHyun.h"
 
 int main()
 {
-	std::cout << "Develop Branch" << std::endl;
-	std::cout << "New Code" << std::endl;//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-	std::cout << "aaaaaaa" << std::endl;
-	std::cout << "bbbbbbb" << std::endl;
-
-
-	std::cout << "変更0" << std::endl;
-	std::cout << "変更2" << std::endl;
-	//ggg
-	std::cout << "変更４" << std::endl;
-	std::cout << "変更6" << std::endl;
-	std::cout << "変更7" << std::endl;
-	std::cout << "変更8" << std::endl;
+	HelloShim();
 
 	return 0;
 }
