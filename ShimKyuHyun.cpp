@@ -3,7 +3,8 @@
 
 void HelloShim()
 {
-	std::cout << "初めまして。シムです。\n";
+	std::cout << "初めまして。\n";
+	std::cout << "私の名前はシムです。\n";
 	std::cout << "よろしくお願いします！" << std::endl;
 }
 
