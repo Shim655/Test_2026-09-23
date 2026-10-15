@@ -24,6 +24,7 @@ int main()
 	//ggg
 	std::cout << "変更４" << std::endl;
 	std::cout << "変更6" << std::endl;
+	std::cout << "変更7" << std::endl;
 
 	return 0;
 }
