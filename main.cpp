@@ -25,6 +25,7 @@ int main()
 	std::cout << "変更４" << std::endl;
 	std::cout << "変更6" << std::endl;
 	std::cout << "変更7" << std::endl;
+	std::cout << "変更8" << std::endl;
 
 	return 0;
 }
