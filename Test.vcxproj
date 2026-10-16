@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Kato.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RyosukeKohara.cpp" />
     <ClCompile Include="ShimKyuHyun.cpp" />
     <ClCompile Include="yamada.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Kato.h" />
     <ClInclude Include="RyosukeKohara.h" />
     <ClInclude Include="ShimKyuHyun.h" />
     <ClInclude Include="yamada.h" />
