@@ -130,10 +130,12 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RyosukeKohara.cpp" />
     <ClCompile Include="ShimKyuHyun.cpp" />
+    <ClCompile Include="yamada.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RyosukeKohara.h" />
     <ClInclude Include="ShimKyuHyun.h" />
+    <ClInclude Include="yamada.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
