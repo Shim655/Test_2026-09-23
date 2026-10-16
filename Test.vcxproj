@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="RyosukeKohara.cpp" />
     <ClCompile Include="ShimKyuHyun.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="RyosukeKohara.h" />
     <ClInclude Include="ShimKyuHyun.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
