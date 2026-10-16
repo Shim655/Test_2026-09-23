@@ -2,8 +2,7 @@
 #include "RyosukeKohara.h"
 
 
-void HelloRyosuke(void)
+void HelloRyosukes(void)
 {
 	std::cout << "Hello Ryosuke Desu" << std::endl;
-	std::cout << "‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·!!" << std::endl;
 }

@@ -1,3 +1,3 @@
 #pragma once
 
-void HelloRyosuke(void);
+void HelloRyosukes(void);
