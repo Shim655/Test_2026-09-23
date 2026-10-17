@@ -10,11 +10,8 @@
 * +-------------------------------------+
 */
 #include <iostream>
-#include "ShimKyuHyun.h"
-
 int main()
 {
-	HelloShim();
 
 	return 0;
 }
