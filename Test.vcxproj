@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="kikuchi.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ShimKyuHyun.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ShimKyuHyun.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kikuchi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
