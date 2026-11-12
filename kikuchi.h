@@ -3,4 +3,4 @@
 
 #include <iostream>
 
-void main();
+void HelloKikuchi();
