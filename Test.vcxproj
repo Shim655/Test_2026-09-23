@@ -133,6 +133,7 @@
     <ClCompile Include="ShimKyuHyun.cpp" />
     <ClCompile Include="shota.cpp" />
     <ClCompile Include="yamada.cpp" />
+    <ClCompile Include="zhaoyuming.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ryosuke.h" />
