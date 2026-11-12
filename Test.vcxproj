@@ -131,11 +131,13 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Ryosuke.cpp" />
     <ClCompile Include="ShimKyuHyun.cpp" />
+    <ClCompile Include="shota.cpp" />
     <ClCompile Include="yamada.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ryosuke.h" />
     <ClInclude Include="ShimKyuHyun.h" />
+    <ClInclude Include="shota.h" />
     <ClInclude Include="yamada.h" />
   </ItemGroup>
   <ItemGroup>
