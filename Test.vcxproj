@@ -130,9 +130,11 @@
     <ClCompile Include="kikuchi.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ShimKyuHyun.cpp" />
+    <ClCompile Include="yamada.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ShimKyuHyun.h" />
+    <ClInclude Include="yamada.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="kikuchi.h" />
