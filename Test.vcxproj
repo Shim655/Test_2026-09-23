@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="kikuchi.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Ryosuke.cpp" />
     <ClCompile Include="ShimKyuHyun.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ryosuke.h" />
     <ClInclude Include="ShimKyuHyun.h" />
   </ItemGroup>
   <ItemGroup>
